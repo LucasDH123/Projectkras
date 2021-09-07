@@ -42,7 +42,7 @@ if($_SERVER['REQUEST_METHOD'] = $_POST) {
 <div id="left"></div>
 <div id="right"></div>
 
-<h1>‘Een Kras mediaconcept voor elk bedrijf.’ haha hihi</h1>
+<h1>‘Een Kras mediaconcept voor elk bedrijf.’ haha hoehoe</h1>
 
 
     <a id="first" href="pages/info.php">Wilt u meer weten?</a>
