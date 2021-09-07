@@ -1,0 +1,157 @@
+body {
+    font-family:"Bebas Neue Regular" ;
+    overflow: scroll;
+}
+
+h1{
+    font-size: 35px;
+    position: absolute;
+    right: 37%;
+    top:   40%;
+}
+
+#left {
+    position:absolute;
+    background: #ff5757;
+    height:2000px;
+    width: 50px;
+    left:0;
+}
+
+#right{
+    position:absolute;
+    background: #ff5757;
+    height:2000px;
+    width: 50px;
+    right:0;
+
+}
+#logo{
+    position: absolute;
+    top:5px;
+    left: 17%;
+    width:606px;
+    height:322px;
+}
+
+
+#first {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 75px;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 100px;
+    padding-right: 75px;
+    padding-left: 75px;
+    background-color: #ff5757;
+}
+#second {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 420px;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 100px;
+    background-color: #ff5757;
+}
+#third {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 775px;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 100px;
+    background-color: #ff5757;
+}
+
+#fourth {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 1125px;
+    border: 1px solid #ff5757;
+    text-decoration: none;
+    padding: 100px;
+    background-color: black;
+}
+
+h2 {
+    position: absolute;
+    font-size: 50px;
+    left: 350px;
+    top: 850px;
+}
+
+.introductie {
+    position:relative;
+    top:950px;
+    font-size: 22px;
+    width:425px;
+    left: 250px;
+}
+
+
+form {
+    position: absolute;
+    top: 1550px;
+    left:500px;
+    background-color: #ff5757;
+    padding:60px;
+    font-size: 30px;
+}
+
+#submit {
+    position:absolute;
+}
+p {
+    position: relative;
+    top: 950px;
+    font-size: 22px;
+    width: 425px;
+    left: 250px;
+}
+
+#img1 {
+
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    right:250px;
+    top:800px;
+
+
+}
+#img2 {
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    right:250px;
+    top:1050px;
+}
+#img3 {
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    right:250px;
+    top:1300px;
+}
+
+.hide {
+    display: none;
+    background-color: gray;
+}
+
+.myDIV:hover + .hide {
+    display: block;
+    background-color: gray;
+
+    padding: 10px
+}

@@ -1,0 +1,114 @@
+body{
+    font-family:"Bebas Neue Regular" ;
+    overflow: scroll;
+}
+
+h1{
+    font-size: 35px;
+    position: absolute;
+    right: 37%;
+    top:   40%;
+}
+
+#left{
+    position:absolute;
+    background: #ff5757;
+    height:2500px;
+    width: 50px;
+    left:0;
+}
+
+#right{
+    position:absolute;
+    background: #ff5757;
+    height:2500px;
+    width: 50px;
+    right:0;
+
+}
+#logo{
+    position: absolute;
+    top:50px;
+    left: 17%;
+    width:606px;
+    height:322px;
+}
+
+#first {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 75px;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 100px;
+    padding-right: 75px;
+    padding-left: 75px;
+    background-color: #ff5757;
+}
+#second{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 420px;
+    border: 1px solid #ff5757;
+    text-decoration: none;
+    padding: 100px;
+    padding-right: 90px;
+    background-color: black;
+}
+#third{
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 775px;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 100px;
+    background-color: #ff5757;
+}
+
+#fourth {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 1125px;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 100px;
+    background-color: #ff5757;
+}
+
+h2{
+    position: absolute;
+    left: 35%;
+    font-size: 40px;
+    top: 800px;
+}
+p{
+    position: relative;
+    left: 32%;
+    top: 950px;
+    font-size: 50px;
+}
+
+img{
+    position: absolute;
+    height: 250px;
+    width: 350px;
+    left: 32%;
+    top:1300px;
+}
+
+form {
+    position: absolute;
+    top: 1650px;
+    left: 500px;
+    background-color: #ff5757;
+    padding: 60px;
+    font-size: 30px;
+}

@@ -1,0 +1,151 @@
+body{
+    font-family:"Bebas Neue Regular" ;
+    overflow: scroll;
+}
+
+h1{
+    font-size: 35px;
+    position: absolute;
+    right: 37%;
+    top:   40%;
+}
+
+#left{
+    position:absolute;
+    background: #ff5757;
+    height:2000px;
+    width: 50px;
+    left:0;
+}
+
+#right{
+    position:absolute;
+    background: #ff5757;
+    height:2000px;
+    width: 50px;
+    right:0;
+
+}
+#logo{
+    position: absolute;
+    top:5px;
+    left: 17%;
+    width:606px;
+    height:322px;
+}
+
+
+#first {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 75px;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 100px;
+    padding-right: 75px;
+    padding-left: 75px;
+    background-color: #ff5757;
+}
+#second{
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 420px;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 100px;
+    background-color: #ff5757;
+}
+#third{
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 775px;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 100px;
+    background-color: #ff5757;
+}
+
+#fourth {
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    top: 450px;
+    left: 1125px;
+    border: 1px solid black;
+    text-decoration: none;
+    padding: 100px;
+    background-color: #ff5757;
+}
+
+h2{
+    position: absolute;
+    font-size: 50px;
+    left: 200px;
+    top: 850px;
+}
+
+p{
+    position:relative;
+    top:999px;
+    text-align: center;
+    font-size: 22px;
+    width:425px;
+    left: 200px;
+    height:1000px;
+}
+
+#Lang{
+    text-decoration: none;
+    color: dodgerblue;
+    position: absolute;
+    font-size:25px;
+    right:300px;
+    top:850px;
+}
+
+#img1{
+    position:absolute;
+    right:200px;
+    width:542px;
+    height:336px;
+    top:1000px;
+}
+#img2{
+    position: absolute;
+    top:1350px;
+    right:200px;
+    width:542px;
+    height:336px;
+}
+
+#flag{
+    position:absolute;
+    height:100px;
+    width:200px;
+    right:285px;
+    top:740px;
+    border: solid black 1px;
+}
+
+form{
+    position: absolute;
+    top: 1800px;
+    left:500px;
+    background-color: #ff5757;
+    padding:60px;
+    font-size: 30px;
+}
+
+#submit{
+    position:absolute;
+
+}
+
+
+
